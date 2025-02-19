@@ -4,7 +4,7 @@ body{
 	place-content: center;
 	height: 90vh;
 }
-.box{
+center{
 	width: 200px;
 	height: 200px;
 	background-color: #add9e6;
