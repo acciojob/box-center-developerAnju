@@ -4,11 +4,13 @@ body{
 	place-content: center;
 	height: 90vh;
 }
+div{
+	border: 2px solid #000;
+}
 span{
 	width: 200px;
 	height: 200px;
 	background-color: #add9e6;
-	border: 2px solid #000;
 	color: purple;
 	display: flex;
 	align-items: center;
